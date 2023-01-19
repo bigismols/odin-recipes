@@ -1,0 +1,56 @@
+.images {
+    height: 400px;
+    width: auto;
+}
+
+.recipes {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    background-color: hsl(43, 50%, 80%);
+}
+/* main webpage */
+.tor-rec {
+    background-color: rgb(164, 206, 189);
+}
+
+.pot-rec {
+    background-color: rgb(165, 127, 83);
+}
+
+.spic-rec {
+   background-color: rgb(128, 168, 76); 
+}
+/* background color for each webpage*/
+.desc1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 28px;
+    text-align: center;
+}
+
+.desc1.tor {
+    color: rgb(255, 102, 0);
+}
+
+.desc1.pot {
+    color: rgb(124, 241, 153);
+}
+
+.desc1.spic {
+    color: rgb(80, 253, 0);
+}
+/*headers for each recipe*/
+p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px
+}
+
+ul ol {
+    font-size: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+/* font of content for all pages*/
+#ref {
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/*font of the reference buttons*/
